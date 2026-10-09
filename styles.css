@@ -1,0 +1,13 @@
+body {
+    background: pink;
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    color: white;
+    z-index: -1;
+}
